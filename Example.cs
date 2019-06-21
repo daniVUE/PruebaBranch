@@ -23,7 +23,7 @@ namespace EjemploEnum
             }
             else if (value == Importance.Critical)
             {
-                Console.WriteLine("True");
+                Console.WriteLine("Hola");
             }
         }
     }
